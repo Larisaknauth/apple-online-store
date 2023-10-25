@@ -48,3 +48,28 @@ nav a:hover {
 	color: #ffffff;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+	text-align: center;
+	background: url("bg.jpg");
+	padding: 40px 0;
+}
+
+.copyright {
+	color: #FFFFFF;
+	font-size: 15px;
+	margin: 20px 0 0;
+}
